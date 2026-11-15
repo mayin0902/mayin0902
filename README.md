@@ -1,75 +1,52 @@
-<p align="center">
-  <img src="assets/profile-banner.svg" width="100%" alt="Hi, I'm Mayin — Nanjing University M.S. 2027; Kaggle Expert, 3 Silver and 1 Bronze; 2026 National Scholarship recipient" />
-</p>
+# Hi, I'm Mayin
 
-<p align="center">
-  <a href="#selected-projects"><strong>Projects</strong></a> &nbsp;·&nbsp;
-  <a href="#experience"><strong>Experience</strong></a> &nbsp;·&nbsp;
-  <a href="#research"><strong>Research</strong></a> &nbsp;·&nbsp;
-  <a href="#toolkit"><strong>Toolkit</strong></a> &nbsp;·&nbsp;
-  <a href="mailto:1196973334@qq.com"><strong>Contact</strong></a>
-</p>
+### Kaggle Expert · 3 Silver Medals · 1 Bronze Medal
 
-I'm an **M.S. student at Nanjing University**, exploring **LLMs, agents, multimodal learning, and AI for Science**. My work spans model training, inference, evaluation, and applications, with algorithm internship experience at **Huawei** and **Alibaba**.
+**Nanjing University · M.S. 2027 (expected)**  
+**2026 National Scholarship recipient**
 
-## Selected Projects
+I work across **LLMs, agents, multimodal learning, and AI for Science**, from model training and inference to evaluation and applications. My experience includes AI algorithm internships at **Huawei** and **Alibaba**.
+
+[Competitions](#competition-repositories) · [Experience](#experience) · [Research](#research) · [Contact](mailto:1196973334@qq.com)
+
+## Competition Repositories
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>🛡️ <a href="https://github.com/mayin0902/openai-ai-agent-security-silver">AI Agent Security</a></h3>
+<h3><a href="https://github.com/mayin0902/openai-ai-agent-security-silver">AI Agent Security</a></h3>
 <p>OpenAI × Google × IEEE</p>
-<p><strong>🥈 58 / 4,186 · Top 1.39%</strong></p>
+<p><strong>Silver · 58 / 4,186 · Top 1.39%</strong></p>
 <p>Model-specific search, tool-trace feedback, and replayable security evaluation.</p>
 <p><code>GPT-OSS</code> <code>Gemma</code> <code>aicomp_sdk</code></p>
-<p><a href="https://github.com/mayin0902/openai-ai-agent-security-silver">Repository ↗</a> · <a href="https://github.com/mayin0902/openai-ai-agent-security-silver/blob/main/docs/method.md">Method</a></p>
 </td>
 <td width="50%" valign="top">
-<h3>💬 <a href="https://github.com/mayin0902/google-jigsaw-agile-community-rules-silver">Google Jigsaw</a></h3>
+<h3><a href="https://github.com/mayin0902/google-jigsaw-agile-community-rules-silver">Google Jigsaw</a></h3>
 <p>Agile Community Rules Classification</p>
-<p><strong>🥈 42 / 2,445 · AUC 0.92909</strong></p>
+<p><strong>Silver · 42 / 2,445 · Top 1.72%</strong></p>
 <p>Rule-conditioned LLM judging, efficient post-training, inference, and model ensembles.</p>
 <p><code>Qwen3</code> <code>QLoRA</code> <code>vLLM</code></p>
-<p><a href="https://github.com/mayin0902/google-jigsaw-agile-community-rules-silver">Repository ↗</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>🌱 <a href="https://github.com/mayin0902/csiro-image2biomass-silver">CSIRO Image2Biomass</a></h3>
+<h3><a href="https://github.com/mayin0902/csiro-image2biomass-silver">CSIRO Image2Biomass</a></h3>
 <p>Small-sample visual regression</p>
-<p><strong>🥈 83 / 3,803 · Top 2.18%</strong></p>
+<p><strong>Silver · 83 / 3,803 · Top 2.18%</strong></p>
 <p>Dual-view visual features and structured prediction of five pasture biomass targets.</p>
 <p><code>DINOv3</code> <code>SigLIP</code> <code>GBDT</code></p>
-<p><a href="https://github.com/mayin0902/csiro-image2biomass-silver">Repository ↗</a></p>
 </td>
 <td width="50%" valign="top">
-<h3>🧬 <a href="https://github.com/mayin0902/neurips-open-polymer-prediction-bronze">Open Polymer Prediction</a></h3>
+<h3><a href="https://github.com/mayin0902/neurips-open-polymer-prediction-bronze">Open Polymer Prediction</a></h3>
 <p>NeurIPS 2025 competition</p>
-<p><strong>🥉 217 / 2,240 · Top 9.69%</strong></p>
+<p><strong>Bronze · 217 / 2,240 · Top 9.69%</strong></p>
 <p>Molecular representations and complementary models for material property prediction.</p>
 <p><code>RDKit</code> <code>GNN</code> <code>CatBoost</code></p>
-<p><a href="https://github.com/mayin0902/neurips-open-polymer-prediction-bronze">Repository ↗</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>🩺 <a href="https://github.com/mayin0902/7th-jittor-cainiao-ultrasound-images">Ultrasound Classification</a></h3>
-<p>Jittor Algorithm Challenge</p>
-<p><strong>B leaderboard: 7th · National finalist</strong></p>
-<p>Fine-grained BI-RADS grading with multi-scale features and ordinal learning.</p>
-<p><code>Jittor</code> <code>EfficientNetV2</code> <code>TTA</code></p>
-<p><a href="https://github.com/mayin0902/7th-jittor-cainiao-ultrasound-images">Repository ↗</a></p>
-</td>
-<td width="50%" valign="top">
-<h3>🖼️ <a href="https://github.com/mayin0902/retarget-abillity">Image Retargeting</a></h3>
-<p>Content-preserving image adaptation</p>
-<p><strong>Candidate generation → scoring → review</strong></p>
-<p>Image processing, optional visual-agent decisions, and reproducible evaluation.</p>
-<p><code>OpenCV</code> <code>OCR</code> <code>FastAPI</code></p>
-<p><a href="https://github.com/mayin0902/retarget-abillity">Retarget Engine ↗</a> · <a href="https://github.com/mayin0902/retarget-agent">Evaluation Lab ↗</a></p>
 </td>
 </tr>
 </table>
+
+**Also:** [Jittor Ultrasound Classification](https://github.com/mayin0902/7th-jittor-cainiao-ultrasound-images) — **B leaderboard: 7th · National finalist**. Fine-grained BI-RADS grading with multi-scale features and ordinal learning.
 
 <details>
 <summary><strong>Explore competition methods and implementation details</strong></summary>
@@ -108,7 +85,7 @@ I'm an **M.S. student at Nanjing University**, exploring **LLMs, agents, multimo
 
 </details>
 
-### 🏦 Financial Text-to-SQL
+### Financial Text-to-SQL
 
 **China Merchants Bank Digital Finance Bootcamp · Jun 2026**  
 **Training track: individual 1st place · Team Silver Award**
@@ -121,7 +98,7 @@ Built a Qwen3.5-2B training and execution-verification workflow across **4 datab
 - Applied **LoRA, SFT, DPO, and GRPO / RLVR**, using real query execution feedback for supervision and preference construction.
 - Corrected **345 timezone-related false errors**; validated **5,484 / 5,635 SQL labels**.
 - Built a **PostgreSQL execution verifier** for execution status, result consistency, and error analysis.
-- Training framework: [Twinkle](https://github.com/modelscope/twinkle).
+- Training framework: Twinkle.
 
 </details>
 
@@ -138,8 +115,6 @@ Evaluated **600+ business images across 8 routes**. A-grade rates on the fixed e
 | Best single method | Agent selection | + Generative repair |
 | :---: | :---: | :---: |
 | **77.33%** | **93.00%** | **96.33%** |
-
-[Retarget Engine](https://github.com/mayin0902/retarget-abillity) · [Evaluation Lab](https://github.com/mayin0902/retarget-agent)
 
 <details>
 <summary>Responsibilities and technical details</summary>
@@ -190,7 +165,7 @@ Developed AI-generated product imagery for apparel merchants, focusing on garmen
 - Learned medium- and high-fidelity energy/force corrections to a low-cost physical baseline using a shared equivariant graph representation.
 - Combined multi-fidelity residual learning, joint energy–force training, data alignment, and controlled ablations.
 - On PBC-Water, reduced energy error by **67.3% vs. Δ-EGNN** and force error by **26.4% vs. Δ-PaiNN** in the reported benchmark comparisons.
-- **Stack:** PyTorch · [SchNetPack](https://github.com/atomistic-machine-learning/schnetpack) · Equivariant GNNs · Linux / HPC.
+- **Stack:** PyTorch · SchNetPack · Equivariant GNNs · Linux / HPC.
 
 **Hydrogen transport · Jiangsu Provincial Frontier Technology R&D Project**
 
@@ -206,14 +181,13 @@ Developed AI-generated product imagery for apparel merchants, focusing on garmen
 | **Build & deploy** | Python · C/C++ · Linux · Git · FastAPI · SQLite · PostgreSQL |
 | **Train & evaluate** | PyTorch · Jittor · Qwen · LoRA / QLoRA · SFT / DPO / GRPO · DeepSpeed · vLLM |
 | **Models & applications** | LangGraph · AgentScope · OpenCV · DINOv3 · SigLIP · FLUX · ComfyUI · LightGBM / CatBoost |
-| **Scientific computing** | [SchNetPack](https://github.com/atomistic-machine-learning/schnetpack) · RDKit · ASE · VASP · DeepMD · MACE · LAMMPS |
+| **Scientific computing** | SchNetPack · RDKit · ASE · VASP · DeepMD · MACE · LAMMPS |
 
 ---
 
 <p align="center">
   <strong>Nanjing University · M.S. in Physical Chemistry · 2024–2027 (expected)</strong><br/>
   Kuang Yaming Honors School · AI for Science<br/><br/>
-  🏅 <strong>2026 National Scholarship recipient</strong><br/><br/>
   <a href="mailto:1196973334@qq.com">Email</a> &nbsp;·&nbsp;
   <a href="https://github.com/mayin0902?tab=repositories">All repositories</a>
 </p>
