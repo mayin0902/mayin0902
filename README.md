@@ -2,8 +2,8 @@
 
 <p>
   <a href="#competition-repositories"><img src="assets/badge-kaggle.svg" height="34" alt="Kaggle Expert · 3 Silver Medals · 1 Bronze Medal"/></a>
-  <img src="assets/badge-nju.svg" height="34" alt="Nanjing University · M.S. 2027 (expected)"/>
-  <img src="assets/badge-scholarship.svg" height="34" alt="2026 National Scholarship recipient"/>
+  <picture><img src="assets/badge-nju.svg" height="34" alt="Nanjing University · M.S. 2027 (expected)"/></picture>
+  <picture><img src="assets/badge-scholarship.svg" height="34" alt="2026 National Scholarship recipient"/></picture>
 </p>
 
 **Nanjing University · M.S. 2027 (expected)**
