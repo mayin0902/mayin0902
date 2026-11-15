@@ -1,9 +1,12 @@
-# Hi, I'm Mayin
+# Hi, I'm Mayin 👋
 
-### Kaggle Expert · 3 Silver Medals · 1 Bronze Medal
+<p>
+  <a href="#competition-repositories"><img src="assets/badge-kaggle.svg" height="34" alt="Kaggle Expert · 3 Silver Medals · 1 Bronze Medal"/></a>
+  <img src="assets/badge-nju.svg" height="34" alt="Nanjing University · M.S. 2027 (expected)"/>
+  <img src="assets/badge-scholarship.svg" height="34" alt="2026 National Scholarship recipient"/>
+</p>
 
-**Nanjing University · M.S. 2027 (expected)**  
-**2026 National Scholarship recipient**
+**Nanjing University · M.S. 2027 (expected)**
 
 I work across **LLMs, agents, multimodal learning, and AI for Science**, from model training and inference to evaluation and applications. My experience includes AI algorithm internships at **Huawei** and **Alibaba**.
 

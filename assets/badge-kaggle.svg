@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="34" viewBox="0 0 260 34" role="img" aria-labelledby="title">
+<title id="title">Kaggle Expert — 3 Silver Medals and 1 Bronze Medal</title>
+<rect x=".5" y=".5" width="259" height="33" rx="7" fill="#f1f6fa" stroke="#dce6ee"/>
+<g fill="none" stroke="#6388a4" stroke-width="1.6" stroke-linejoin="round">
+<path d="M13 7l4 8h6l4-8h-5l-2 5-2-5z"/><circle cx="20" cy="21" r="6"/>
+<path d="M18 21l1.5 1.5L22 19"/>
+</g>
+<text x="36" y="21.5" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="600" fill="#39556e">Kaggle Expert · 3 Silver / 1 Bronze</text>
+</svg>
