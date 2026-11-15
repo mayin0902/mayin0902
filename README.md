@@ -7,19 +7,20 @@ I build AI systems that connect models with tools, measurable evaluation, and pr
 ## Highlights
 
 - 🏅 **Kaggle Expert · 3 Silver Medals + 1 Bronze Medal**
+- 🎓 **2026 National Scholarship recipient** · Nanjing University
 - 🤖 **AI algorithm internship experience at Huawei and Alibaba**, with projects in image adaptation and virtual try-on
 - 🥇 **1st place in the individual training track** and **team Silver Award** at the China Merchants Bank Digital Finance Bootcamp
 - 🔬 **First-author research** on multi-fidelity equivariant neural potentials and hydrogen transport at mineral interfaces
 
 | Competition | Result | Focus |
 | --- | --- | --- |
-| **OpenAI × Google × IEEE — AI Agent Security** | **🥈 58 / 4,186 · Top 1.39%** | Tool-using agent security, automated evaluation, replayable tests |
+| [**OpenAI × Google × IEEE — AI Agent Security**](https://github.com/mayin0902/openai-ai-agent-security-silver) | **🥈 58 / 4,186 · Top 1.39%** | Tool-using agent security, automated evaluation, replayable tests |
 | **Google Jigsaw — Agile Community Rules** | **🥈 42 / 2,445 · Top 1.72%** | Rule-conditioned LLM judging and model ensembles |
 | **CSIRO — Image2Biomass Prediction** | **🥈 83 / 3,803 · Top 2.18%** | Visual foundation models and structured regression |
 | **NeurIPS 2025 — Open Polymer Prediction** | **🥉 217 / 2,240 · Top 9.69%** | Molecular representations and material property prediction |
 | **Jittor Algorithm Challenge — Ultrasound Classification** | **B leaderboard: 7th · National finalist** | Fine-grained medical image recognition |
 
-## Experience & Applied Projects
+## Industry Experience
 
 ### Huawei · Retarget-Agent
 
@@ -36,25 +37,26 @@ Developed content-aware image adaptation for different aspect ratios, preserving
 
 **Tools:** Python · OpenCV · YOLO · OCR · SAM · ComfyUI · FLUX · Multimodal Judge · FastAPI
 
-### Alibaba / Taobao · Virtual Try-on, and OutfitFlow (衣序)
+### Alibaba Group · Taobao
 
-**AIGC Algorithm Project Intern · Nov 2025–Feb 2026**  
-**Independent extension:** OutfitFlow, a clothing recommendation and virtual try-on agent system
+**AIGC Algorithm Intern · Virtual Try-on · Nov 2025–Feb 2026**
 
-- Built **FLUX.1 Fill + Redux** and **Gemini image-editing** workflows, with mask control and Face-Fidelity LoRA customization for garment detail and identity consistency.
-- Processed **500+ product/model images** in the merchant workflow; reduced production time for selected assets from approximately **7 days to 30 minutes**.
-- Independently extended the workflow into OutfitFlow: clothing retrieval, constraint-based outfit planning, virtual try-on, independent quality review, and user confirmation.
-- Connected **AgentScope and LangGraph** with multimodal retrieval, BM25 + RRF, persistent preferences, and recoverable execution state.
-- Added budget controls, duplicate-call detection, bounded repair, and an independent judge that can re-evaluate existing candidates without generating new images.
+Worked on AI-generated product imagery for apparel merchants, focusing on garment detail, model identity consistency, and faster content production.
 
-**Tools:** FLUX · Gemini · LoRA · SigLIP · ComfyUI · AgentScope · LangGraph · FastAPI · SQLite
+- Built controllable virtual try-on workflows with **FLUX.1 Fill + Redux** and **Gemini image editing**, combining garment references, model images, masks, and prompts for different clothing styles.
+- Developed data preprocessing, automatic captioning, workflow-to-API conversion, and batch inference tools; exposed generation through a **FastAPI** interface with configurable masks, prompts, LoRA weights, and seeds.
+- Fine-tuned and integrated **Face-Fidelity LoRA** models to address facial distortion and identity drift, covering training-data preparation, captioning, inference tuning, and dynamic loading in ComfyUI.
+- Designed quality-based model routing and result review for garment texture, faces, and occlusion boundaries, using higher-cost generation for difficult cases and bounded retries for failed outputs.
+- Processed **500+ real product/model images** and reduced turnaround for selected merchant assets from approximately **7 days with traditional shooting to 30 minutes**.
+
+**Tools:** Python · FLUX.1 Fill / Redux · Gemini · LoRA · SigLIP · ComfyUI · FastAPI
 
 ## Agent Security & LLM Post-training
 
 ### OpenAI × Google × IEEE · AI Agent Security
 
 **Kaggle Silver Medal · Team rank: 58 / 4,186 (Top 1.39%) · Jun–Sep 2026**  
-[Official competition: AI Agent Security — Multi-Step Tool Attacks](https://www.kaggle.com/competitions/ai-agent-security-multi-step-tool-attacks/overview)
+[Code & methodology](https://github.com/mayin0902/openai-ai-agent-security-silver) · [Official competition: AI Agent Security — Multi-Step Tool Attacks](https://www.kaggle.com/competitions/ai-agent-security-multi-step-tool-attacks/overview)
 
 Contributed to automated security evaluation of tool-using agents in the competition's offline sandbox, focusing on tool misuse and reproducibility under different guardrails.
 
@@ -155,12 +157,11 @@ Predicted five pasture biomass targets from a small dataset of **357 high-resolu
 | **Machine Learning** | scikit-learn, LightGBM, CatBoost, XGBoost, cross-validation, ensemble learning |
 | **AI for Science** | Equivariant GNNs, SchNetPack, RDKit, ASE, VASP, DeepMD, DPA, MACE, LAMMPS |
 
-## Education
+## Education & Honors
 
 - **Nanjing University** — M.S. in Physical Chemistry, Kuang Yaming Honors School · **2024–2027 (expected)**  
   Research focus: AI for Science, molecular machine learning, and scientific computing.
-- **Nanjing Tech University** — B.Eng. in Chemical Engineering and Technology · **2020–2024**  
-  Rank: **3 / 257** · GPA: **3.83 / 4.0**.
+- **2026 National Scholarship** — Recipient, Nanjing University.
 
 ## Current Interests
 
