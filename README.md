@@ -1,172 +1,219 @@
-# Hi, I'm Mayin 👋
+<p align="center">
+  <img src="assets/profile-banner.svg" width="100%" alt="Hi, I'm Mayin — Nanjing University M.S. 2027; Kaggle Expert, 3 Silver and 1 Bronze; 2026 National Scholarship recipient" />
+</p>
 
-I'm an **M.S. student at Nanjing University** (expected 2027), working across **AI agents, multimodal generation, LLM post-training, computer vision, and AI for Science**.
+<p align="center">
+  <a href="#selected-projects"><strong>Projects</strong></a> &nbsp;·&nbsp;
+  <a href="#experience"><strong>Experience</strong></a> &nbsp;·&nbsp;
+  <a href="#research"><strong>Research</strong></a> &nbsp;·&nbsp;
+  <a href="#toolkit"><strong>Toolkit</strong></a> &nbsp;·&nbsp;
+  <a href="mailto:1196973334@qq.com"><strong>Contact</strong></a>
+</p>
 
-I build AI systems that connect models with tools, measurable evaluation, and practical applications—from virtual try-on and content-aware image adaptation to agent security and molecular simulation.
+I'm an **M.S. student at Nanjing University**, exploring **LLMs, agents, multimodal learning, and AI for Science**. My work spans model training, inference, evaluation, and applications, with algorithm internship experience at **Huawei** and **Alibaba**.
 
-## Highlights
+## Selected Projects
 
-- 🏅 **Kaggle Expert · 3 Silver Medals + 1 Bronze Medal**
-- 🎓 **2026 National Scholarship recipient** · Nanjing University
-- 🤖 **AI algorithm internship experience at Huawei and Alibaba**, with projects in image adaptation and virtual try-on
-- 🥇 **1st place in the individual training track** and **team Silver Award** at the China Merchants Bank Digital Finance Bootcamp
-- 🔬 **First-author research** on multi-fidelity equivariant neural potentials and hydrogen transport at mineral interfaces
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🛡️ <a href="https://github.com/mayin0902/openai-ai-agent-security-silver">AI Agent Security</a></h3>
+<p>OpenAI × Google × IEEE</p>
+<p><strong>🥈 58 / 4,186 · Top 1.39%</strong></p>
+<p>Model-specific search, tool-trace feedback, and replayable security evaluation.</p>
+<p><code>GPT-OSS</code> <code>Gemma</code> <code>aicomp_sdk</code></p>
+<p><a href="https://github.com/mayin0902/openai-ai-agent-security-silver">Repository ↗</a> · <a href="https://github.com/mayin0902/openai-ai-agent-security-silver/blob/main/docs/method.md">Method</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>💬 <a href="https://github.com/mayin0902/google-jigsaw-agile-community-rules-silver">Google Jigsaw</a></h3>
+<p>Agile Community Rules Classification</p>
+<p><strong>🥈 42 / 2,445 · AUC 0.92909</strong></p>
+<p>Rule-conditioned LLM judging, efficient post-training, inference, and model ensembles.</p>
+<p><code>Qwen3</code> <code>QLoRA</code> <code>vLLM</code></p>
+<p><a href="https://github.com/mayin0902/google-jigsaw-agile-community-rules-silver">Repository ↗</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🌱 <a href="https://github.com/mayin0902/csiro-image2biomass-silver">CSIRO Image2Biomass</a></h3>
+<p>Small-sample visual regression</p>
+<p><strong>🥈 83 / 3,803 · Top 2.18%</strong></p>
+<p>Dual-view visual features and structured prediction of five pasture biomass targets.</p>
+<p><code>DINOv3</code> <code>SigLIP</code> <code>GBDT</code></p>
+<p><a href="https://github.com/mayin0902/csiro-image2biomass-silver">Repository ↗</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>🧬 <a href="https://github.com/mayin0902/neurips-open-polymer-prediction-bronze">Open Polymer Prediction</a></h3>
+<p>NeurIPS 2025 competition</p>
+<p><strong>🥉 217 / 2,240 · Top 9.69%</strong></p>
+<p>Molecular representations and complementary models for material property prediction.</p>
+<p><code>RDKit</code> <code>GNN</code> <code>CatBoost</code></p>
+<p><a href="https://github.com/mayin0902/neurips-open-polymer-prediction-bronze">Repository ↗</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🩺 <a href="https://github.com/mayin0902/7th-jittor-cainiao-ultrasound-images">Ultrasound Classification</a></h3>
+<p>Jittor Algorithm Challenge</p>
+<p><strong>B leaderboard: 7th · National finalist</strong></p>
+<p>Fine-grained BI-RADS grading with multi-scale features and ordinal learning.</p>
+<p><code>Jittor</code> <code>EfficientNetV2</code> <code>TTA</code></p>
+<p><a href="https://github.com/mayin0902/7th-jittor-cainiao-ultrasound-images">Repository ↗</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>🖼️ <a href="https://github.com/mayin0902/retarget-abillity">Image Retargeting</a></h3>
+<p>Content-preserving image adaptation</p>
+<p><strong>Candidate generation → scoring → review</strong></p>
+<p>Image processing, optional visual-agent decisions, and reproducible evaluation.</p>
+<p><code>OpenCV</code> <code>OCR</code> <code>FastAPI</code></p>
+<p><a href="https://github.com/mayin0902/retarget-abillity">Retarget Engine ↗</a> · <a href="https://github.com/mayin0902/retarget-agent">Evaluation Lab ↗</a></p>
+</td>
+</tr>
+</table>
 
-| Competition | Result | Focus |
-| --- | --- | --- |
-| [**OpenAI × Google × IEEE — AI Agent Security**](https://github.com/mayin0902/openai-ai-agent-security-silver) | **🥈 58 / 4,186 · Top 1.39%** | Tool-using agent security, automated evaluation, replayable tests |
-| **Google Jigsaw — Agile Community Rules** | **🥈 42 / 2,445 · Top 1.72%** | Rule-conditioned LLM judging and model ensembles |
-| **CSIRO — Image2Biomass Prediction** | **🥈 83 / 3,803 · Top 2.18%** | Visual foundation models and structured regression |
-| **NeurIPS 2025 — Open Polymer Prediction** | **🥉 217 / 2,240 · Top 9.69%** | Molecular representations and material property prediction |
-| **Jittor Algorithm Challenge — Ultrasound Classification** | **B leaderboard: 7th · National finalist** | Fine-grained medical image recognition |
+<details>
+<summary><strong>Explore competition methods and implementation details</strong></summary>
 
-## Industry Experience
+### [AI Agent Security](https://github.com/mayin0902/openai-ai-agent-security-silver)
 
-### Huawei · Retarget-Agent
+**Team Silver Medal · Jun–Sep 2026** · [Official competition](https://www.kaggle.com/competitions/ai-agent-security-multi-step-tool-attacks/overview)
 
-**AI Application Algorithm Intern · Image Processing Project Lead · Jul 2026–Present**  
-**Recognition:** Outstanding Intern
+- Contributed to **40 configurations across GPT-OSS and Gemma**, evaluating actual tool execution through traces.
+- Configured **30 probes per strategy**, ranking strategies by a heuristic estimate of tool-action reward per second over the final 20 probes.
+- Supported up to **2,000 candidates per model** and a single-file SDK submission for independent replay; analyzed public/hidden guardrail differences and removed dependence on a fixed test marker.
 
-Developed content-aware image adaptation for different aspect ratios, preserving people, products, text, and logos.
+### [Google Jigsaw](https://github.com/mayin0902/google-jigsaw-agile-community-rules-silver)
 
-- Evaluated **8 processing routes on 600+ business images** and established a quality rubric covering content fidelity, visual completeness, and composition.
-- Combined detection, OCR, segmentation, and geometric processing with multimodal judging to generate, score, and select candidates.
-- Added controlled generative repair with original subject/text restoration, followed by re-evaluation and fallback.
-- On a **fixed evaluation set**, improved the A-grade rate from **77.33%** for the best single method to **93.00%** with Retarget-Agent and **96.33%** with generative repair.
-- Delivered FastAPI interfaces and replay-based evaluation with versioned results and failure analysis.
+**Silver Medal · Top 1.72%**
 
-**Tools:** Python · OpenCV · YOLO · OCR · SAM · ComfyUI · FLUX · Multimodal Judge · FastAPI
+- Fine-tuned **Qwen3-4B with 4-bit QLoRA**, completion-only supervision, and single-token scoring for rule-conditioned moderation.
+- Combined generative LLM, **GTE + Triplet Loss**, and **DeBERTa-v3** branches through rank blending.
+- Used **DeepSpeed ZeRO-2** for efficient training and **vLLM** for batch inference, including generalization to unseen rules.
 
-### Alibaba Group · Taobao
+### [CSIRO Image2Biomass](https://github.com/mayin0902/csiro-image2biomass-silver)
 
-**AIGC Algorithm Intern · Virtual Try-on · Nov 2025–Feb 2026**
+- Used **357 high-resolution images** to predict five biomass targets with a shared **DINOv3 ViT-Huge** backbone and a Gated Local Token Mixer.
+- Predicted Green, Dead, and Clover biomass and reconstructed GDM and Total to preserve target relationships.
+- Added **SigLIP + LightGBM / CatBoost**, four-fold validation, and late blending; improved weighted **R² from 0.54 to 0.63**.
 
-Worked on AI-generated product imagery for apparel merchants, focusing on garment detail, model identity consistency, and faster content production.
+### [Open Polymer Prediction](https://github.com/mayin0902/neurips-open-polymer-prediction-bronze)
 
-- Built controllable virtual try-on workflows with **FLUX.1 Fill + Redux** and **Gemini image editing**, combining garment references, model images, masks, and prompts for different clothing styles.
-- Developed data preprocessing, automatic captioning, workflow-to-API conversion, and batch inference tools; exposed generation through a **FastAPI** interface with configurable masks, prompts, LoRA weights, and seeds.
-- Fine-tuned and integrated **Face-Fidelity LoRA** models to address facial distortion and identity drift, covering training-data preparation, captioning, inference tuning, and dynamic loading in ComfyUI.
-- Designed quality-based model routing and result review for garment texture, faces, and occlusion boundaries, using higher-cost generation for difficult cases and bounded retries for failed outputs.
-- Processed **500+ real product/model images** and reduced turnaround for selected merchant assets from approximately **7 days with traditional shooting to 30 minutes**.
-
-**Tools:** Python · FLUX.1 Fill / Redux · Gemini · LoRA · SigLIP · ComfyUI · FastAPI
-
-## Agent Security & LLM Post-training
-
-### OpenAI × Google × IEEE · AI Agent Security
-
-**Kaggle Silver Medal · Team rank: 58 / 4,186 (Top 1.39%) · Jun–Sep 2026**  
-[Code & methodology](https://github.com/mayin0902/openai-ai-agent-security-silver) · [Official competition: AI Agent Security — Multi-Step Tool Attacks](https://www.kaggle.com/competitions/ai-agent-security-multi-step-tool-attacks/overview)
-
-Contributed to automated security evaluation of tool-using agents in the competition's offline sandbox, focusing on tool misuse and reproducibility under different guardrails.
-
-- Contributed to **40 model-specific test configurations** across GPT-OSS and Gemma, adapting instruction formats and tool parameters to each model.
-- Evaluated behavior through **tool execution traces**, checking whether actions actually occurred.
-- Helped build a test-generation → sandbox-execution → trace-collection → strategy-selection workflow, configured for **30 probes per strategy**.
-- Ranked strategies using a **heuristic estimate of tool-action reward per unit time**, calculated from the final 20 probes.
-- Supported up to **2,000 test candidates per model**, with deterministic parameter variation and a single-file `aicomp_sdk` submission for independent replay.
-- Analyzed differences between public and hidden guardrail behavior, and moved away from dependence on a fixed test marker.
-
-**Tools:** Python · GPT-OSS · Gemma · Tool Tracing · Automated Red Teaming · aicomp_sdk
-
-### China Merchants Bank · Financial Text-to-SQL
-
-**Training Track Lead · Individual 1st Place · Team Silver Award · Jun 2026**
-
-Built a training and verification workflow for multi-turn financial queries.
-
-- Curated **5,635 interaction turns across 4 database schemas**, covering field selection, joins, aggregation, time boundaries, and conversational context.
-- Corrected **345 timezone-related false errors** and increased the proportion of **execution-verified SQL labels from 36.6% to 97.32% (5,484 / 5,635)**.
-- Applied **SFT, DPO, and GRPO** to Qwen3.5-2B with LoRA, using query execution feedback for supervision and preference construction.
-- Built a **PostgreSQL execution verifier** to distinguish executable SQL from queries that return the correct result.
-
-*97.32% measures validated data labels, not model test accuracy.*
-
-**Tools:** Qwen3.5-2B · LoRA · SFT · DPO · GRPO / RLVR · PostgreSQL · Twinkle
-
-## Selected Competition Solutions
-
-### Google Jigsaw · Rule-conditioned LLM Judge
-
-**Silver Medal · 42 / 2,445 · Final AUC: 0.92909**  
-[Code & methodology](https://github.com/mayin0902/google-jigsaw-agile-community-rules-silver)
-
-- Modeled moderation as **rule + comment → violation**, including generalization to unseen rules.
-- Fine-tuned Qwen3-4B with **4-bit QLoRA**, completion-only supervision, and single-token scoring.
-- Combined a generative LLM branch, **GTE + Triplet Loss** metric learning, and a **DeBERTa-v3** classifier through rank blending.
-- Used **DeepSpeed ZeRO-2** and **vLLM** for training and batch inference.
-
-### CSIRO · Image2Biomass Prediction
-
-**Silver Medal · 83 / 3,803 · Weighted R²: 0.54 → 0.63**  
-[Code & methodology](https://github.com/mayin0902/csiro-image2biomass-silver)
-
-Predicted five pasture biomass targets from a small dataset of **357 high-resolution images**.
-
-- Built a shared **DINOv3 ViT-Huge** backbone over two image views, with a **Gated Local Token Mixer** for local texture and spatial information.
-- Predicted Green, Dead, and Clover biomass, then reconstructed GDM and Total to preserve target relationships.
-- Added **SigLIP + LightGBM / CatBoost** branches and used four-fold validation and late blending.
-
-### NeurIPS 2025 · Open Polymer Prediction
-
-**Bronze Medal · 217 / 2,240**  
-[Code & methodology](https://github.com/mayin0902/neurips-open-polymer-prediction-bronze)
-
-- Built a polymer property prediction workflow from molecular structures, combining **RDKit / Mordred descriptors, molecular fingerprints, and graph representations**.
-- Combined graph models and gradient-boosted trees to capture complementary structure–property relationships.
+- Combined **RDKit / Mordred descriptors, molecular fingerprints, graph models, and gradient-boosted trees**.
 - Addressed missing labels, different target scales, feature selection, and multi-target validation.
 
-### Jittor · Fine-grained Ultrasound Classification
+### [Jittor Ultrasound Classification](https://github.com/mayin0902/7th-jittor-cainiao-ultrasound-images)
 
-**B leaderboard: 7th · National finalist**  
-[Code & methodology](https://github.com/mayin0902/7th-jittor-cainiao-ultrasound-images)
+- Combined **EfficientNetV2**, multi-scale features, BN-Neck, and Multi-Dropout for limited and imbalanced data.
+- Explored cumulative ordinal labels with BCEWithLogitsLoss; used **five-fold validation, TTA, checkpoint ensembles, and Jittor AMP**.
 
-- Built an **EfficientNetV2** model with multi-scale feature fusion, **BN-Neck**, and **Multi-Dropout** for breast ultrasound BI-RADS grading.
-- Explored ordinal label modeling with cumulative multi-label targets and **BCEWithLogitsLoss**.
-- Used **five-fold validation, TTA, checkpoint ensembles, and Jittor AMP** to improve robustness with limited and imbalanced data.
+</details>
 
-## Research · AI for Science
+### 🏦 Financial Text-to-SQL
 
-### PRISM · Multi-fidelity Equivariant Neural Potentials
+**China Merchants Bank Digital Finance Bootcamp · Jun 2026**  
+**Training track: individual 1st place · Team Silver Award**
 
-**First-author research**
+Built a Qwen3.5-2B training and execution-verification workflow across **4 database schemas and 5,635 interaction turns**. Improved **execution-verified SQL labels from 36.6% to 97.32%**.
 
-- Developed a shared equivariant graph representation to learn medium- and high-fidelity energy/force corrections to a low-cost physical baseline.
-- Combined **multi-fidelity residual learning** with joint energy–force training, data alignment, and controlled ablations.
-- With **200 MP2 configurations** on PBC-Water, achieved **0.48 meV/atom energy MAE** and **42.31 meV/Å force MAE**.
-- Reduced energy error by **67.3% vs. Δ-EGNN** and force error by **26.4% vs. Δ-PaiNN** in the reported benchmark comparisons.
+<details>
+<summary>Post-training and verification details</summary>
 
-**Tools:** PyTorch · SchNetPack · Equivariant GNNs · Multi-fidelity Learning · Linux / HPC
+- Applied **LoRA, SFT, DPO, and GRPO / RLVR**, using real query execution feedback for supervision and preference construction.
+- Corrected **345 timezone-related false errors**; validated **5,484 / 5,635 SQL labels**.
+- Built a **PostgreSQL execution verifier** for execution status, result consistency, and error analysis.
+- Training framework: [Twinkle](https://github.com/modelscope/twinkle).
 
-### Hydrogen Transport at Mineral Interfaces
+</details>
 
-**First-author research · Jiangsu Provincial Frontier Technology R&D Project**
+## Experience
 
-- Built a workflow spanning structure sampling, **DFT labeling, data quality checks, machine-learning potential training, and molecular dynamics**.
-- Processed **40k+ atomic configurations** using VASP, DeepMD / DPA / MACE, ASE, and LAMMPS.
-- Analyzed hydrogen aggregation and transport in nanoconfined brine and mineral interfaces through density, clustering, diffusion, orientation, and residence-time statistics.
+### Huawei · AI Application Algorithm Intern
 
-## Technical Skills
+**Jul 2026–Present · Image Processing Project Lead · Outstanding Intern**
 
-| Area | Tools & Methods |
+Developed **Retarget-Agent** for content-aware image adaptation, preserving people, products, text, and logos.
+
+Evaluated **600+ business images across 8 routes**. A-grade rates on the fixed evaluation set:
+
+| Best single method | Agent selection | + Generative repair |
+| :---: | :---: | :---: |
+| **77.33%** | **93.00%** | **96.33%** |
+
+[Retarget Engine](https://github.com/mayin0902/retarget-abillity) · [Evaluation Lab](https://github.com/mayin0902/retarget-agent)
+
+<details>
+<summary>Responsibilities and technical details</summary>
+
+- Established a quality rubric covering content fidelity, visual completeness, and composition.
+- Combined detection, OCR, segmentation, and geometric processing with multimodal judging to generate, score, and select candidates.
+- Added controlled generative repair with original subject/text restoration, re-evaluation, and fallback.
+- Delivered **FastAPI interfaces and replay-based evaluation**, including versioned results and failure analysis.
+
+**Stack:** Python · OpenCV · YOLO · OCR · SAM · ComfyUI · FLUX · FastAPI
+
+</details>
+
+### Alibaba Group · Taobao AIGC Algorithm Intern
+
+**Nov 2025–Feb 2026 · Virtual Try-on**
+
+Developed AI-generated product imagery for apparel merchants, focusing on garment detail, identity consistency, and production efficiency.
+
+**500+ real product/model images** · Selected merchant assets: **~7 days of traditional shooting → ~30 minutes**
+
+<details>
+<summary>Responsibilities and technical details</summary>
+
+- Built controllable try-on workflows with **FLUX.1 Fill + Redux** and **Gemini image editing**, combining garment references, model images, masks, and prompts.
+- Developed preprocessing, automatic captioning, workflow-to-API conversion, batch inference, and configurable **FastAPI** interfaces.
+- Fine-tuned and integrated **Face-Fidelity LoRA**, covering data preparation, captioning, inference tuning, and dynamic ComfyUI loading.
+- Designed quality-based routing and review for garment texture, faces, and occlusion boundaries, with bounded retries for failed outputs.
+
+**Stack:** Python · FLUX · Gemini · LoRA · SigLIP · ComfyUI · FastAPI
+
+</details>
+
+## Research
+
+**First-author work in molecular machine learning and scientific computing.**
+
+| Research | Selected results |
 | --- | --- |
-| **Programming & Engineering** | Python, C/C++, Linux, Git, FastAPI, SQLite, PostgreSQL, SSE / WebSocket |
-| **Agents & Evaluation** | LangGraph, AgentScope, tool integration, multimodal RAG, BM25 / RRF, persistent state, execution verification, replay evaluation |
-| **LLMs & Post-training** | Qwen, LoRA / QLoRA, SFT, DPO, GRPO, DeepSpeed, vLLM, GTE, DeBERTa |
-| **Vision & Generation** | PyTorch, Jittor, OpenCV, DINOv3, SigLIP, EfficientNetV2, FLUX, Gemini, ComfyUI |
-| **Machine Learning** | scikit-learn, LightGBM, CatBoost, XGBoost, cross-validation, ensemble learning |
-| **AI for Science** | Equivariant GNNs, SchNetPack, RDKit, ASE, VASP, DeepMD, DPA, MACE, LAMMPS |
+| **PRISM · Multi-fidelity Equivariant Neural Potentials** | **200 MP2 configurations** · Energy MAE **0.48 meV/atom** · Force MAE **42.31 meV/Å** |
+| **Hydrogen Transport at Mineral Interfaces** | **40k+ atomic configurations** · DFT → ML potentials → molecular dynamics |
 
-## Education & Honors
+<details>
+<summary>Research methods and benchmark details</summary>
 
-- **Nanjing University** — M.S. in Physical Chemistry, Kuang Yaming Honors School · **2024–2027 (expected)**  
-  Research focus: AI for Science, molecular machine learning, and scientific computing.
-- **2026 National Scholarship** — Recipient, Nanjing University.
+**PRISM**
 
-## Current Interests
+- Learned medium- and high-fidelity energy/force corrections to a low-cost physical baseline using a shared equivariant graph representation.
+- Combined multi-fidelity residual learning, joint energy–force training, data alignment, and controlled ablations.
+- On PBC-Water, reduced energy error by **67.3% vs. Δ-EGNN** and force error by **26.4% vs. Δ-PaiNN** in the reported benchmark comparisons.
+- **Stack:** PyTorch · [SchNetPack](https://github.com/atomistic-machine-learning/schnetpack) · Equivariant GNNs · Linux / HPC.
 
-Reliable tool-using agents · Multimodal generation and evaluation · LLM post-training with verifiable feedback · Small-sample visual learning · Equivariant models for molecular simulation
+**Hydrogen transport · Jiangsu Provincial Frontier Technology R&D Project**
 
-## Contact
+- Connected structure sampling, VASP labeling, data quality checks, DeepMD / DPA / MACE training, and LAMMPS simulations.
+- Analyzed aggregation and transport in nanoconfined brine and mineral interfaces through density, clustering, diffusion, orientation, and residence-time statistics.
 
-[Email](mailto:1196973334@qq.com) · [GitHub](https://github.com/mayin0902)
+</details>
+
+## Toolkit
+
+| | |
+| --- | --- |
+| **Build & deploy** | Python · C/C++ · Linux · Git · FastAPI · SQLite · PostgreSQL |
+| **Train & evaluate** | PyTorch · Jittor · Qwen · LoRA / QLoRA · SFT / DPO / GRPO · DeepSpeed · vLLM |
+| **Models & applications** | LangGraph · AgentScope · OpenCV · DINOv3 · SigLIP · FLUX · ComfyUI · LightGBM / CatBoost |
+| **Scientific computing** | [SchNetPack](https://github.com/atomistic-machine-learning/schnetpack) · RDKit · ASE · VASP · DeepMD · MACE · LAMMPS |
+
+---
+
+<p align="center">
+  <strong>Nanjing University · M.S. in Physical Chemistry · 2024–2027 (expected)</strong><br/>
+  Kuang Yaming Honors School · AI for Science<br/><br/>
+  🏅 <strong>2026 National Scholarship recipient</strong><br/><br/>
+  <a href="mailto:1196973334@qq.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://github.com/mayin0902?tab=repositories">All repositories</a>
+</p>
