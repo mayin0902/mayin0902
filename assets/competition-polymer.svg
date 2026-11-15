@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="164" viewBox="0 0 640 164" role="img" aria-labelledby="title desc">
+<title id="title">NeurIPS 2025 — Official Competition Track</title>
+<desc id="desc">A stylized polymer chain represents machine learning for molecular properties.</desc>
+<rect width="640" height="164" rx="12" fill="#f7f4f8"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="28" y="42" font-size="14" font-weight="700" letter-spacing="1.8" fill="#7a6684">OFFICIAL COMPETITION TRACK</text>
+<text x="28" y="85" font-size="29" font-weight="700" fill="#55415f">NeurIPS 2025</text>
+<text x="28" y="119" font-size="17" fill="#7b6c83">Open Polymer · University of Notre Dame</text>
+</g>
+<g fill="none" stroke="#9a84a5" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+<path d="M472 62l28-16 28 16v33l-28 16-28-16zM480 68v21m20 13 20-12m-20-35 20 12M528 95l28 16 28-16V62l-28-16-28 16m56 33 28 16"/>
+<path d="M459 38h-11v94h11m147-94h11v94h-11" stroke="#c0b3c7"/>
+<circle cx="556" cy="46" r="5" fill="#e9e1ed"/><circle cx="584" cy="95" r="5" fill="#e9e1ed"/>
+</g>
+</svg>

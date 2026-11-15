@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="164" viewBox="0 0 640 164" role="img" aria-labelledby="title desc">
+<title id="title">OpenAI, Google and IEEE — AI Agent Security</title>
+<desc id="desc">A restrained illustration of a shield and a sequence of verified tool actions.</desc>
+<rect width="640" height="164" rx="12" fill="#f3f7f7"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="28" y="42" font-size="14" font-weight="700" letter-spacing="1.8" fill="#496b69">COMPETITION HOSTS</text>
+<text x="28" y="85" font-size="27" font-weight="700" fill="#203b3a">OpenAI · Google · IEEE</text>
+<text x="28" y="119" font-size="17" fill="#597270">AI agents · Security · Reproducibility</text>
+</g>
+<g fill="none" stroke="#658f8b" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+<path d="M537 30l40 15v30c0 27-18 46-40 57-22-11-40-30-40-57V45z" fill="#e4eeec"/>
+<path d="M518 77l13 13 25-29"/>
+<path d="M470 61h27m80 39h27" stroke="#a8bdb9"/>
+<circle cx="464" cy="61" r="6" fill="#f3f7f7"/><circle cx="610" cy="100" r="6" fill="#f3f7f7"/>
+</g>
+</svg>

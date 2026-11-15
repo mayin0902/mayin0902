@@ -14,39 +14,49 @@ I work across **LLMs, agents, multimodal learning, and AI for Science**, from mo
 <table>
 <tr>
 <td width="50%" valign="top">
+<a href="https://github.com/mayin0902/openai-ai-agent-security-silver"><img src="assets/competition-agent-security.svg" width="100%" alt="OpenAI · Google · IEEE — AI Agent Security competition hosts"/></a>
 <h3><a href="https://github.com/mayin0902/openai-ai-agent-security-silver">AI Agent Security</a></h3>
-<p>OpenAI × Google × IEEE</p>
-<p><strong>Silver · 58 / 4,186 · Top 1.39%</strong></p>
+<p><strong>🥈 Silver · 58 / 4,186 teams · Top 1.39%</strong></p>
+<p>Co-hosted by <a href="https://www.kaggle.com/competitions/ai-agent-security-multi-step-tool-attacks/rules"><strong>OpenAI, Google and IEEE</strong></a>. An international challenge on reproducible failures in tool-using agents.</p>
 <p>Model-specific search, tool-trace feedback, and replayable security evaluation.</p>
 <p><code>GPT-OSS</code> <code>Gemma</code> <code>aicomp_sdk</code></p>
 </td>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/mayin0902/google-jigsaw-agile-community-rules-silver">Google Jigsaw</a></h3>
-<p>Agile Community Rules Classification</p>
-<p><strong>Silver · 42 / 2,445 · Top 1.72%</strong></p>
+<a href="https://github.com/mayin0902/google-jigsaw-agile-community-rules-silver"><img src="assets/competition-jigsaw.svg" width="100%" alt="Google Jigsaw — language models and community rules"/></a>
+<h3><a href="https://github.com/mayin0902/google-jigsaw-agile-community-rules-silver">Agile Community Rules</a></h3>
+<p><strong>🥈 Silver · 42 / 2,445 teams · Top 1.72%</strong></p>
+<p>Hosted by <a href="https://www.kaggle.com/competitions/jigsaw-agile-community-rules/rules"><strong>Google Jigsaw / Conversation AI</strong></a>. A Kaggle Featured competition on real-world community moderation.</p>
 <p>Rule-conditioned LLM judging, efficient post-training, inference, and model ensembles.</p>
 <p><code>Qwen3</code> <code>QLoRA</code> <code>vLLM</code></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/mayin0902/csiro-image2biomass-silver">CSIRO Image2Biomass</a></h3>
-<p>Small-sample visual regression</p>
-<p><strong>Silver · 83 / 3,803 · Top 2.18%</strong></p>
+<a href="https://github.com/mayin0902/csiro-image2biomass-silver"><img src="assets/competition-csiro.svg" width="100%" alt="CSIRO — Australia's national science agency"/></a>
+<h3><a href="https://github.com/mayin0902/csiro-image2biomass-silver">Image2Biomass</a></h3>
+<p><strong>🥈 Silver · 83 / 3,803 teams · Top 2.18%</strong></p>
+<p>Led by <a href="https://www.csiro.au/en/news/All/News/2026/April/New-AI-tools-find-smarter-ways-to-measure-pasture"><strong>CSIRO, Australia's national science agency</strong></a>, with Google Australia and Meat &amp; Livestock Australia.</p>
 <p>Dual-view visual features and structured prediction of five pasture biomass targets.</p>
 <p><code>DINOv3</code> <code>SigLIP</code> <code>GBDT</code></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://github.com/mayin0902/neurips-open-polymer-prediction-bronze"><img src="assets/competition-polymer.svg" width="100%" alt="NeurIPS 2025 official Competition Track — Open Polymer, University of Notre Dame"/></a>
 <h3><a href="https://github.com/mayin0902/neurips-open-polymer-prediction-bronze">Open Polymer Prediction</a></h3>
-<p>NeurIPS 2025 competition</p>
-<p><strong>Bronze · 217 / 2,240 · Top 9.69%</strong></p>
+<p><strong>🥉 Bronze · 217 / 2,240 teams · Top 9.69%</strong></p>
+<p><a href="https://blog.neurips.cc/2025/06/27/neurips-2025-competitions-announced/"><strong>NeurIPS 2025 official Competition Track</strong></a>. Hosted by the <a href="https://www.kaggle.com/competitions/neurips-open-polymer-prediction-2025/rules">University of Notre Dame</a>.</p>
 <p>Molecular representations and complementary models for material property prediction.</p>
 <p><code>RDKit</code> <code>GNN</code> <code>CatBoost</code></p>
 </td>
 </tr>
 </table>
 
-**Also:** [Jittor Ultrasound Classification](https://github.com/mayin0902/7th-jittor-cainiao-ultrasound-images) — **B leaderboard: 7th · National finalist**. Fine-grained BI-RADS grading with multi-scale features and ordinal learning.
+### [Jittor Ultrasound Classification](https://github.com/mayin0902/7th-jittor-cainiao-ultrasound-images)
+
+**B leaderboard: 7th · National finalist**
+
+A challenge founded by **Tsinghua University's BNRist and the Tsinghua–Tencent Joint Laboratory**, under the guidance and funding of NSFC's Department of Information Sciences. [Official event background](https://cg.cs.tsinghua.edu.cn/jittor/news/2025-10-14-11-55-00-00-JittorComp5th/)
+
+Fine-grained BI-RADS grading with multi-scale features and ordinal learning.
 
 <details>
 <summary><strong>Explore competition methods and implementation details</strong></summary>

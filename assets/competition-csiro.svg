@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="164" viewBox="0 0 640 164" role="img" aria-labelledby="title desc">
+<title id="title">CSIRO — Australia's national science agency</title>
+<desc id="desc">Pasture leaves and measurement marks represent biomass estimation from images.</desc>
+<rect width="640" height="164" rx="12" fill="#f4f7f1"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="28" y="42" font-size="14" font-weight="700" letter-spacing="1.8" fill="#607455">COMPETITION HOST</text>
+<text x="28" y="85" font-size="30" font-weight="700" fill="#354c2c">CSIRO</text>
+<text x="28" y="119" font-size="17" fill="#65765b">Australia's national science agency</text>
+</g>
+<g fill="none" stroke="#839b70" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+<path d="M465 120h135M498 119V82m31 37V55m31 64V77"/>
+<path d="M498 100c-24-2-29-17-28-30 22 0 31 12 28 30zm31-17c-29-1-37-19-35-35 25 1 37 15 35 35zm0 13c30-4 38-21 35-36-26 3-37 18-35 36zm31 14c25-2 34-17 31-31-22 1-33 14-31 31z" fill="#e7efdf"/>
+<path d="M606 38v66m-9-66h9m-6 16h6m-9 17h9m-6 16h6m-9 17h9" stroke="#b0bda5"/>
+</g>
+</svg>
