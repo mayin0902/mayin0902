@@ -53,7 +53,7 @@ I work across **LLMs, agents, multimodal learning, and AI for Science**, from mo
 </tr>
 </table>
 
-### [Jittor Ultrasound Classification](https://github.com/mayin0902/7th-jittor-cainiao-ultrasound-images)
+### <picture><img src="assets/icon-jittor.png" width="18" height="18" alt="" /></picture> [Jittor Ultrasound Classification](https://github.com/mayin0902/7th-jittor-cainiao-ultrasound-images)
 
 **B leaderboard: 7th · National finalist**
 
@@ -98,7 +98,7 @@ Fine-grained BI-RADS grading with multi-scale features and ordinal learning.
 
 </details>
 
-### Financial Text-to-SQL
+### <picture><img src="assets/icon-cmb.png" width="18" height="18" alt="" /></picture> Financial Text-to-SQL
 
 **China Merchants Bank Digital Finance Bootcamp · Jun 2026**  
 **Training track: individual 1st place · Team Silver Award**
@@ -117,7 +117,7 @@ Built a Qwen3.5-2B training and execution-verification workflow across **4 datab
 
 ## Experience
 
-### Huawei · AI Application Algorithm Intern
+### <picture><img src="assets/icon-huawei.svg" width="18" height="18" alt="" /></picture> Huawei · AI Application Algorithm Intern
 
 **Jul 2026–Present · Image Processing Project Lead · Outstanding Intern**
 
@@ -141,7 +141,7 @@ Evaluated **600+ business images across 8 routes**. A-grade rates on the fixed e
 
 </details>
 
-### Alibaba Group · Taobao AIGC Algorithm Intern
+### <picture><img src="assets/icon-alibaba.png" width="18" height="18" alt="" /></picture> Alibaba Group · Taobao AIGC Algorithm Intern
 
 **Nov 2025–Feb 2026 · Virtual Try-on**
 
@@ -167,8 +167,8 @@ Developed AI-generated product imagery for apparel merchants, focusing on garmen
 
 | Research | Selected results |
 | --- | --- |
-| **PRISM · Multi-fidelity Equivariant Neural Potentials** | **200 MP2 configurations** · Energy MAE **0.48 meV/atom** · Force MAE **42.31 meV/Å** |
-| **Hydrogen Transport at Mineral Interfaces** | **40k+ atomic configurations** · DFT → ML potentials → molecular dynamics |
+| ⚛️ **PRISM · Multi-fidelity Equivariant Neural Potentials** | **200 MP2 configurations** · Energy MAE **0.48 meV/atom** · Force MAE **42.31 meV/Å** |
+| 🧪 **Hydrogen Transport at Mineral Interfaces** | **40k+ atomic configurations** · DFT → ML potentials → molecular dynamics |
 
 <details>
 <summary>Research methods and benchmark details</summary>
