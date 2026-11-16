@@ -18,7 +18,7 @@ I work across **LLMs, agents, multimodal learning, and AI for Science**, from mo
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/mayin0902/openai-ai-agent-security-silver"><img src="assets/competition-agent-security.svg" width="100%" alt="OpenAI · Google · IEEE — AI Agent Security competition hosts"/></a>
-<h3><a href="https://github.com/mayin0902/openai-ai-agent-security-silver">AI Agent Security</a></h3>
+<h3><picture><img src="assets/icon-openai.svg" width="18" height="18" alt="" /></picture> <a href="https://github.com/mayin0902/openai-ai-agent-security-silver">AI Agent Security</a></h3>
 <p><strong>🥈 Silver · 58 / 4,186 teams · Top 1.39%</strong></p>
 <p>Co-hosted by <a href="https://www.kaggle.com/competitions/ai-agent-security-multi-step-tool-attacks/rules"><strong>OpenAI, Google and IEEE</strong></a>. An international challenge on reproducible failures in tool-using agents.</p>
 <p>Model-specific search, tool-trace feedback, and replayable security evaluation.</p>
@@ -26,7 +26,7 @@ I work across **LLMs, agents, multimodal learning, and AI for Science**, from mo
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/mayin0902/google-jigsaw-agile-community-rules-silver"><img src="assets/competition-jigsaw.svg" width="100%" alt="Google Jigsaw — language models and community rules"/></a>
-<h3><a href="https://github.com/mayin0902/google-jigsaw-agile-community-rules-silver">Agile Community Rules</a></h3>
+<h3><picture><img src="assets/icon-google.png" width="18" height="18" alt="" /></picture> <a href="https://github.com/mayin0902/google-jigsaw-agile-community-rules-silver">Agile Community Rules</a></h3>
 <p><strong>🥈 Silver · 42 / 2,445 teams · Top 1.72%</strong></p>
 <p>Hosted by <a href="https://www.kaggle.com/competitions/jigsaw-agile-community-rules/rules"><strong>Google Jigsaw / Conversation AI</strong></a>. A Kaggle Featured competition on real-world community moderation.</p>
 <p>Rule-conditioned LLM judging, efficient post-training, inference, and model ensembles.</p>
@@ -36,7 +36,7 @@ I work across **LLMs, agents, multimodal learning, and AI for Science**, from mo
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/mayin0902/csiro-image2biomass-silver"><img src="assets/competition-csiro.svg" width="100%" alt="CSIRO — Australia's national science agency"/></a>
-<h3><a href="https://github.com/mayin0902/csiro-image2biomass-silver">Image2Biomass</a></h3>
+<h3><picture><img src="assets/icon-csiro.png" width="18" height="18" alt="" /></picture> <a href="https://github.com/mayin0902/csiro-image2biomass-silver">Image2Biomass</a></h3>
 <p><strong>🥈 Silver · 83 / 3,803 teams · Top 2.18%</strong></p>
 <p>Led by <a href="https://www.csiro.au/en/news/All/News/2026/April/New-AI-tools-find-smarter-ways-to-measure-pasture"><strong>CSIRO, Australia's national science agency</strong></a>, with Google Australia and Meat &amp; Livestock Australia.</p>
 <p>Dual-view visual features and structured prediction of five pasture biomass targets.</p>
@@ -44,7 +44,7 @@ I work across **LLMs, agents, multimodal learning, and AI for Science**, from mo
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/mayin0902/neurips-open-polymer-prediction-bronze"><img src="assets/competition-polymer.svg" width="100%" alt="NeurIPS 2025 official Competition Track — Open Polymer, University of Notre Dame"/></a>
-<h3><a href="https://github.com/mayin0902/neurips-open-polymer-prediction-bronze">Open Polymer Prediction</a></h3>
+<h3><picture><img src="assets/icon-neurips.svg" width="18" height="18" alt="" /></picture> <a href="https://github.com/mayin0902/neurips-open-polymer-prediction-bronze">Open Polymer Prediction</a></h3>
 <p><strong>🥉 Bronze · 217 / 2,240 teams · Top 9.69%</strong></p>
 <p><a href="https://blog.neurips.cc/2025/06/27/neurips-2025-competitions-announced/"><strong>NeurIPS 2025 official Competition Track</strong></a>. Hosted by the <a href="https://www.kaggle.com/competitions/neurips-open-polymer-prediction-2025/rules">University of Notre Dame</a>.</p>
 <p>Molecular representations and complementary models for material property prediction.</p>
